@@ -1,3 +1,4 @@
 this is a sample text.
 add to index
 commit
+pull
